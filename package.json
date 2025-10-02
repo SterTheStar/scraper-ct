@@ -1,0 +1,12 @@
+{
+  "name": "centraldetraducoes-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for centraldetraducoes.net.br",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
